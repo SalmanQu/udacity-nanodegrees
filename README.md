@@ -1,4 +1,4 @@
-Last Updated: August 16, 2016
+Last Updated: October 20, 2016
 
 # Udacity Nanodegrees
 
@@ -36,6 +36,8 @@ Find this project useful? [Show some love :revolving_hearts:](https://www.creato
   * [Android Developer Nanodegree](#android-developer-nanodegree)
   * [iOS Developer Nanodegree](#ios-developer-nanodegree)
   * [Mobile Game Developer Nanodegree](#mobile-game-developer-nanodegree)
+  * [Predictive Analytics for Business Nanodegree](#predictive-analytics-for-business-nanodegree)
+  * [Machine Learning Engineer Nanodegree](#machine-learning-engineer-nanodegree)
 
 
 ---
@@ -183,9 +185,11 @@ career move. No programming experience? No problem! The skills you learn in this
 beginning Nanodegree program will accelerate your journey to becoming a working
 Android Developer.
 
-  1. [Android Development for Beginners](https://www.udacity.com/courses/android-development-for-beginners--ud837)
-  2. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
-  3. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+  1. [Android Basics: User Interface](https://www.udacity.com/courses/android-basics-user-interface--ud834)
+  2. [Android Basics: User Input](https://www.udacity.com/courses/android-basics-user-input--ud836)
+  3. [Android Basics: Multi-screen Apps](https://www.udacity.com/courses/android-basics-multi-screen-apps--ud839)
+  4. [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+  5. [Android Basics: Data Storage](https://www.udacity.com/courses/android-basics-data-storage--ud845)
 
 
 ---
@@ -246,3 +250,46 @@ devices and operating systems.
 
 
 ---
+
+
+### Predictive Analytics for Business Nanodegree
+
+As more and more companies incorporate predictive analytics into their data
+strategies, demand for business analysts with these skills is growing rapidly,
+and salaries are rising. This Nanodegree program will equip you with these very
+in-demand skills, and no programming experience is required to enroll!
+
+You’ll master the most important predictive techniques, work with leading
+tools in the space, and learn to deliver high-value solutions to important
+business problems.
+
+  1. [Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)
+  2. [Creating an Analytical Dataset](https://www.udacity.com/course/creating-an-analytical-dataset--ud977)
+  3. [Classification Models](https://www.udacity.com/course/classification-models--ud978)
+  4. [Data Visualization in Tableau](https://www.udacity.com/course/data-visualization-in-tableau--ud1006)
+  5. [A/B Testing for Business Analysts](https://www.udacity.com/course/ab-testing--ud979)
+  6. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+  7. [Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+
+
+---
+
+
+### Machine Learning Engineer Nanodegree
+
+Machine learning represents a key evolution in the fields of computer science,
+data analysis, software engineering, and artificial intelligence.
+
+This program will teach you how to become a machine learning engineer, and
+apply predictive models to massive data sets in fields like finance,
+healthcare, education, and more.
+
+You’ll master the most important predictive techniques, work with leading tools in the space,
+and learn to deliver high-value solutions to important business problems.
+
+  1. [Intro to Descriptive Statistics](https://www.udacity.com/courses/intro-to-descriptive-statistics--ud827)
+  2. [Intro to Data Science](https://www.udacity.com/courses/intro-to-data-science--ud359)
+  3. [Reinforcement Learning](https://www.udacity.com/courses/reinforcement-learning--ud600)
+  4. [Deep Learning](https://www.udacity.com/courses/deep-learning--ud730)
+  5. [Artificial Intelligence for Robotics](https://www.udacity.com/courses/artificial-intelligence-for-robotics--cs373)
+  6. [Machine Learning for Trading](https://www.udacity.com/courses/machine-learning-for-trading--ud501)
